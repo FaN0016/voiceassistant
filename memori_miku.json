@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": ", coba lihat angka satu."
+    },
+    {
+        "role": "assistant",
+        "content": "Tentu saja, angkanya 1."
+    }
+]
